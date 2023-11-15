@@ -18,4 +18,4 @@ A horizontal rule can be added with a few dashes or asterisks in a row.
 > You can create blockquote sections by utilizing the right bracket at the start of lines.
 > > They can even be nested within one another.
 
-[Links can be created by placing the text within brackets, and the link within parentheses afterwards.]()
+[Links can be created by placing the text within brackets, and the link within parentheses afterwards.](Link.md)
